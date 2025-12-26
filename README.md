@@ -27,3 +27,4 @@ Free single-file web app for daily productivity: tasks, meetings, full calendar 
 College student learning full-stack web dev | [sagarshuklaa](https://github.com/sagarshuklaa)
 
 **MIT License** - Free to use/modify/share! 🎉
+[![GitHub stars](https://img.shields.io/github/stars/sagarshuklaa/daily-planner?style=social)](https://github.com/sagarshuklaa/daily-planner)
